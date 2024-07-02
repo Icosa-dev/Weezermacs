@@ -12,7 +12,7 @@ git clone https://github.com/H4drian/Weezermacs.git
 Then in your `init.el` file add this line of code:
 
 ```
-(load-file (expand-file-name "weezermacs/weezermacs.el" (file-name-directory load-file-name)))
+(load-file (expand-file-name "Weezermacs/weezermacs.el" (file-name-directory load-file-name)))
 ```
 
 Then you can reload emacs and the command will be fully functional.
