@@ -6,7 +6,7 @@ Weezermacs is an elisp program that displays an ASCII art version of Weezer's se
 To install weezermacs start by changing directory to the directory where your `init.el` file is. Then run the following
 
 ```
-git clone https://github.com/H4drian/weezermacs.git
+git clone https://github.com/H4drian/Weezermacs.git
 ```
 
 Then in your `init.el` file add this line of code:
