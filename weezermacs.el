@@ -46,7 +46,7 @@
 ⠀⢂⠀⠂⣼⣿⣿⣿⣿⠀⣿⣿⣿⣿⡇⢀⠂⢁⠐⢸⠝⠁⢰⢡⢃⡿⢽⠯⢷⠁⡈⠐⢈⠀⡐⠀⣿⣿⣿⣿⠀⢿⣿⣿⣿⡆⠠⢀⠁⠄⠂⢸⣿⣿⣇⠈⢸⣿⣿⣿⠀⠂⠠⠐⠀
 ⢀⠂⡈⠄⣿⣿⣿⣿⡿⠀⣿⣿⣿⣿⠇⢀⠂⠄⣈⠿⣥⢆⢏⡞⢀⣷⣤⣷⢿⠆⢀⠁⠂⠠⢀⠁⣿⣿⣿⣿⠀⢸⣿⣿⣿⡇⠀⢂⠈⠠⢈⢸⣿⣿⣿⠀⢹⣿⣿⣿⠀⢁⠂⠁⠂
 "))
-    (with-current-buffer (get-buffer-create "*ASCII Art*")
+    (with-current-buffer (get-buffer-create "*Keepin' it Weezy*")
       (erase-buffer)
       (insert art)
       (pop-to-buffer (current-buffer))
